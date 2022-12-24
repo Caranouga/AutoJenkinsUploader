@@ -6,12 +6,10 @@ public final class AutoJenkinsUploader extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
-
+        saveDefaultConfig();
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
     }
 }
