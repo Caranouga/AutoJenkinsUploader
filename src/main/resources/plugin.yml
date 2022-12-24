@@ -1,0 +1,5 @@
+name: AutoJenkinsUploader
+version: '${project.version}'
+main: fr.caranouga.autojenkinsuploader.AutoJenkinsUploader
+api-version: 1.19
+authors: [ Caranouga ]
