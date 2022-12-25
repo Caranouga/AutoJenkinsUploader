@@ -1,0 +1,3 @@
+- [ ] Plugin Jenkins to auto trigger the plugin
+- [ ] Command to set the values in the config file
+- [ ] Command to move the downloaded files to the correct folder

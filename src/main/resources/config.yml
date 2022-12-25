@@ -3,9 +3,10 @@ config:
   auto-download: true
   auto-update: true
   jenkins-url: http://88.151.197.136:8081
-  jenkins-user: admin
+  jenkins-username: admin
   jenkins-password: admin
   jenkins-jobs:
     test:
       job-name: Test
       job-artifact: Test.jar
+      last-successful-build-number: null
